@@ -12,6 +12,7 @@ const App = () => {
 
   return (
     <div
+      className="Parent"
       style={{
         backgroundColor: "lightgreen",
         height: "400px",
